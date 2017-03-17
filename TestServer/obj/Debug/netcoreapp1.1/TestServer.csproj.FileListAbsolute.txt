@@ -1,0 +1,9 @@
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.deps.json
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.runtimeconfig.json
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.runtimeconfig.dev.json
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.dll
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.pdb
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.csprojResolveAssemblyReference.cache
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.AssemblyInfo.cs
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.dll
+c:\users\timur\documents\visual studio 2017\Projects\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.pdb
